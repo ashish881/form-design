@@ -277,6 +277,11 @@ input[type="checkbox"] {
         /* flex-direction: column-reverse; */
     }
 
+    .container {
+        width: 100%;
+    }
+    
+
     .col-1 {
         width: 100%;
         border-top-left-radius: 3rem;
@@ -324,11 +329,15 @@ input[type="checkbox"] {
     }
 
     .custom-field input {
-        width: 90%;
+        width: 80%;
+    }
+
+    .container {
+        width: 100%;
     }
 
     .row-2 {
-        width: 90%;
+        width: 80%;
     }
 
     .row-3 {
