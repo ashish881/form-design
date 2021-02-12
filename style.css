@@ -265,9 +265,9 @@ input[type="checkbox"] {
 
 @media(max-width:576px) {
 
-    /* body{
-        height: 80vh;
-    } */
+    body{
+        height: 90vh;
+    }
     .row {
         flex-direction: column;
         /* flex-direction: column-reverse; */
@@ -311,9 +311,9 @@ input[type="checkbox"] {
 
 @media(max-width:900px) {
 
-    /* body{
-        height: 80vh;
-    } */
+    body{
+        height: 90vh;
+    }
     .custom-field input {
         width: 70%;
     }
